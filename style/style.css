@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    padding: 10rem;
+}
+
+#headersection{
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerrechts {
+    display: flex;
+    margin: 0 auto;
+}
+.headerrechts h1 {
+    padding: 40px 10px;
+}
+
+.headerlinks img {
+    height: 15rem;
+}
+
+.card {
+    max-height: 200rem;
+    width: 30%;
+}
+
+.card-img-top {
+    max-width: 30rem;
+    margin: 0 auto;
+}
+
+.warenkorb-button {
+    float: right;
+    background-color: rgb(11, 104, 17);
+    color: white;
+    padding: 15px;
+}
