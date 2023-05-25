@@ -18,26 +18,26 @@ const products = {
     },
     {
         type: "cosmetics",
-        title: "Bamus Abschminkpads",
-        image: "https://images.unsplash.com/photo-1588959570984-9f1e0e9a91a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
-        beschreibung: "Weiche, wiederverwendbare Wattepads aus nachhaltiger Bambusfaser",
+        title: "Gesichtsserum",
+        image: "https://images.unsplash.com/photo-1617897903246-719242758050?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80",
+        beschreibung: "Reichhaltiges Serum gegen Falten und Altersflecken. Direkt in Iralien hergestellt",
         preis: "9.99€",
-        größe: "5 Stück"
+        größe: "10ml"
 }
 ],
     lebensmittel: [
         {
             type: "food",
-            title: "Ananas-Mango Smoothie",
-            image: "https://images.unsplash.com/photo-1588959570984-9f1e0e9a91a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
-            beschreibung: "kaltgepresster Saft aus Ananas und Mango aus biologischem Anbau, verfeinert mit kanadischem Honig",
-            preis: "2.99€",
-            größe: "250ml"
+            title: "Smoothie",
+            image: "https://images.unsplash.com/photo-1650022643645-3cba368a52b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1062&q=80",
+            beschreibung: "kaltgepresster Saft 'Green Goddness' oder 'Crimson Awakening'",
+            preis: "3.99€",
+            größe: "295ml"
         },
         {
             type: "food",
             title: "gerösteter Mais",
-            image: "https://images.unsplash.com/photo-1590785070226-54267b6eda8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80",
+            image: "https://images.unsplash.com/photo-1541363278861-e218a998284f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1035&q=80",
             beschreibung: "Direkt nach der Ernte gerösteter Mais, gesalzen. Das fettarme Pondant zu Nüssen",
             preis: "6.99€",
             größe: "500g"
@@ -45,7 +45,7 @@ const products = {
         {
             type: "food",
             title: "Protein Bar",
-            image: "https://images.unsplash.com/photo-1622484211828-17230f29dfa8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
+            image: "https://images.unsplash.com/photo-1597781379202-efa830a6c5c8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=987&q=80",
             beschreibung: "Veganer Proteinriegel aus biologischem Anbau. Für das gesunde Frühstück oder für Zwischendurch",
             preis: "1.99€",
             größe: "60g"
